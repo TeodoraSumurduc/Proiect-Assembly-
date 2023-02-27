@@ -1,4 +1,4 @@
-# Proiect-Assembly
+# Proiect- Assembly x86 AT&T
 133_Sumurduc_Teodora_0.s contine doua probleme:
   1. se citesc listele de adiacenta a unui graf orientat cu n noduri si se construieste matricea de adiacenta.
   2. se construieste matricea de adiacenta si se va calcula numarul de drumuri de lungime k dintre doua noduri date . Pentru a determina numarul de drumuri de lungime k 
